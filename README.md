@@ -1,0 +1,1 @@
+String utility functions, inspired by string.h and scripting language utilities.
